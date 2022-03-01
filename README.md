@@ -1,1 +1,1 @@
-My first readme
+Another readme for git second task
